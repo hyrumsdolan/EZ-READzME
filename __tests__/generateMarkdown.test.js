@@ -1,4 +1,4 @@
-const generateMarkdown = require('../generateMarkdown');
+const generateMarkdown = require('../utils/generateMarkdown');
 
 describe('generateMarkdown', () => {
     // Test data for generating README
